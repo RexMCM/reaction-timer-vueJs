@@ -11,7 +11,7 @@ This project was developed to put my vue.js learning skills in practice. It is a
 
 ## 🚀 How to run
 
-First, make sure to have [Nodejs](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/) and [Expo](https://docs.expo.io/) installed on your machine.
+First, make sure to have [Nodejs](https://nodejs.org/en/) and  [Yarn](https://yarnpkg.com/) installed on your machine.
 
 ```bash
 # clone the repository
